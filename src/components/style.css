@@ -1,0 +1,28 @@
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+    cursor: default;
+    text-size: 10px;
+    text-align: center;
+    background: black;
+    text-decoration-color: lightblue;
+}
+
+ .grid {
+    cursor: pointer;
+    text-size: 10px;
+    text-align: center;
+    text-decoration-color: blue;
+}
+
+ .ADD {
+    cursor: pointer;
+    text-size: 10px;
+    text-align: center;
+    text-decoration-color: blue;
+}
+
+
